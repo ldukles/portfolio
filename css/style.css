@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #3e7253;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #3e7253;
   outline: none;
   text-decoration: none;
 }
@@ -675,7 +675,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-color: #c0392b !important;
 }
 .progress-bar.progress-bar-3 {
-  background-color: #d35400 !important;
+  background-color: #3e7253 !important;
 }
 .progress-bar.progress-bar-4 {
   background-color: #8e44ad !important;
@@ -1111,21 +1111,21 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #3e7253;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #3e7253;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ff9b1a !important;
-  border-color: #ff9b1a !important;
+  background: #3e7253 !important;
+  border-color: #3e7253 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF9000;
-  border: 2px solid #FF9000;
+  color: #3e7253;
+  border: 2px solid #3e7253;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #3e7253;
   color: #fff;
 }
 
@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #3e7253;
 }
 
 .row-pb-md {
