@@ -15,7 +15,7 @@ Lindsey Dukles Software Engineer Portfolio
 * Javascript
 
 ## <a name="deployment"></a>Deployed Link
-[!Portfolio](https://lindsey-dukles-portfolio.netlify.app/)]
+[[!Portfolio](https://lindsey-dukles-portfolio.netlify.app/)]
 
 
 ## Works Cited:
